@@ -59,3 +59,10 @@
 //         </div>
 //     )
 // }
+export default function MagicLinkPage() {
+    return (
+        <div>
+            <h1>Magic Link</h1>
+        </div>
+    );
+}
